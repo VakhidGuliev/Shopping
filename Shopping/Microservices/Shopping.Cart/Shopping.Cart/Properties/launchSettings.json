@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:10373",
+      "applicationUrl": "http://localhost:61847",
       "sslPort": 0
     }
   },
   "profiles": {
-    "ShoppingCart": {
+    "Shopping.Cart": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:5043",
+      "applicationUrl": "http://localhost:5282",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
