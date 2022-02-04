@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{FB82672D-E3C1-4E1D-8F35-8714C5EC7D87}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductCatalog", "Application\ProductCatalog\ProductCatalog.csproj", "{AF47315E-0E3F-40D0-BD07-8C7DFD81CDFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.ProductCatalog", "Application\Shopping.ProductCatalog\Shopping.ProductCatalog.csproj", "{AF47315E-0E3F-40D0-BD07-8C7DFD81CDFD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart", "Application\ShoppingCart\ShoppingCart.csproj", "{FAE92615-E70F-48B2-BB7F-A95CE705BA06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Cart", "Application\Shopping.Cart\Shopping.Cart.csproj", "{FAE92615-E70F-48B2-BB7F-A95CE705BA06}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopingTracing", "Application\ShopingTracing\ShopingTracing.csproj", "{A9FD03F3-9B69-47CF-ADA5-B7FB346DCA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Tracing", "Application\Shopping.Tracing\Shopping.Tracing.csproj", "{A9FD03F3-9B69-47CF-ADA5-B7FB346DCA11}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9E527666-FA5F-49C3-96F3-43EEA6BC04C0}"
 EndProject
@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Core", "Domain\Sho
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F4FB7D29-623D-4C8B-95FA-C2BEE59E7D7E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shoping.Infrastructure", "Infrastructure\Shoping.Infrastructure\Shoping.Infrastructure.csproj", "{6F72BCB1-EA1E-4E64-8DFA-348E3CE2A64C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Infrastructure", "Infrastructure\Shopping.Infrastructure\Shopping.Infrastructure.csproj", "{6F72BCB1-EA1E-4E64-8DFA-348E3CE2A64C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{035AFD5F-235F-46CC-99F1-7072D7007A53}"
 EndProject
