@@ -2,7 +2,7 @@
 
 namespace Shopping.Core.Services
 {
-    internal interface IProductService
+    public interface IProductService
     {
         Task<Product> AddProduct(Product product);
         Task<IEnumerable<Product>> GetAllProducts();
